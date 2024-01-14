@@ -20,3 +20,17 @@ El fin de este proyecto, es generar información que sea relevante y tenga valor
   - Seaborn
  
   - Matplotlib
+ 
+  - Numpy
+ 
+## Propuesta de trabajo y Objetivos:
+* Realizar un EDA de los archivos brindados para el proyecto.
+* Documentar cada paso, de manera clara y consisa los pasos en cada detalle del análisis, incluyendo gráficos y visualizaciones relevantes.
+* Desarrollar un dashboard funcional e interactivo en power bi que facilite la exploración de datos.
+* Incluir filtros en power bi que permitan a los usuarios seleccionar y analizar datos específicos.
+* Diseñar el dashboard el power bi de manera clara y estética para facilitar la interpretación de la información.
+## KPI's:
+* Medir y graficar la reducción del 10% en la tasa de homicidios en siniestros viales de los últimos seis meses en CABA en comparación con el semestre anterior.
+* Medir y graficar la reducción del 7% en la cantidad de accidentes mortales de motociclistas en el último año en CABA en comparación con el año anterior.
+* Proponer, medir y graficar un tercer KPI relevante para la temática de seguridad vial.
+* Garantizar que los KPIs estén representados adecuadamente en el dashboard de power bi.
